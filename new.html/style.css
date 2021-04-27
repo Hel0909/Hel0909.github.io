@@ -1,0 +1,32 @@
+.oson{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.container{
+    max-width: 1250px;
+    margin: 0 auto;
+}
+.word1{
+    font-family: Raleway;
+font-style: normal;
+font-weight: 600;
+font-size: 35px;
+line-height: 137.4%;
+color: #333333;
+}
+.word2{
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 139.69%;
+color: rgba(51, 51, 51, 0.5);
+}
+.fon{
+    background: #F3F3F3;;
+    height: 100vh;
+}
+.oson1{
+    width: 50%;
+}
